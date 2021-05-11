@@ -14,7 +14,7 @@ I’m Luís Fonseca, currently a freshman studying Computer Science and Engineer
 
 ### Links & Contacts
 
-Website: ~~https://lhf.pt~~ (wip)
+Website: https://lhf.pt
 
 E-mail: [luis@lhf.pt](mailto:luis@lhf.pt)
 
