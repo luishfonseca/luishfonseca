@@ -6,9 +6,9 @@ I’m Luís Fonseca, currently a freshman studying Computer Science and Engineer
 
 ### Stats
 
-[![Luís' GitHub stats](https://github-readme-stats.vercel.app/api?username=luishfonseca&show_icons=true&include_all_commits=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Luís' GitHub stats](https://github-readme-stats.vercel.app/api?username=luishfonseca&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luishfonseca&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luishfonseca&layout=compact&theme=dark&langs_count=8)
 
 ---
 
