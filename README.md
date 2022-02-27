@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-**I’m Luís Fonseca, currently a freshman studying Computer Science and Engineering at Instituto Superior Técnico, Portugal.**
+**I’m Luís Fonseca, currently a second-year student taking Computer Science and Engineering at Instituto Superior Técnico, Portugal.**
 
 <br>
 
