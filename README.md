@@ -16,6 +16,4 @@ Website: https://lhf.pt
 
 E-mail: [luis@lhf.pt](mailto:luis@lhf.pt)
 
-Github: https://github.com/luishfonseca
-
 </div>
